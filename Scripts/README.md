@@ -20,6 +20,7 @@ Open een terminal in je projectmap en voer uit:
 py -3.10 -m venv venv
 venv/Scripts/Activate
 
+```
 ---
 
 ##Problemen met toestemming?
@@ -27,6 +28,7 @@ venv/Scripts/Activate
 ```bash
 
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+```
 
 ---
 
@@ -34,3 +36,4 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 ```bash
 pip install opencv-python mediapipe pyautogui numpy
+```
