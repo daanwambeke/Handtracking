@@ -23,7 +23,7 @@ venv/Scripts/Activate
 ```
 ---
 
-##Problemen met toestemming?
+## Problemen met toestemming?
 
 ```bash
 
@@ -32,7 +32,7 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 ---
 
-##Uiteindelijk de libraries installeren!
+## Uiteindelijk de libraries installeren!
 
 ```bash
 pip install opencv-python mediapipe pyautogui numpy
